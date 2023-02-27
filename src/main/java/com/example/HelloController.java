@@ -14,10 +14,4 @@ public class HelloController {
         return "hello_world";
     }
 
-//    @RequestMapping(value = "/hello_world", method = RequestMethod.GET)
-//    public String printHelloWorld(ModelMap modelMap) {
-//        modelMap.addAttribute("message", "Hello World and Welcome to Spring MVC");
-//
-//        return "hello_world";
-//    }
 }
